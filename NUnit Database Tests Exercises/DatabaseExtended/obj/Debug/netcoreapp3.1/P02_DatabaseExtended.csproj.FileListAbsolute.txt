@@ -1,0 +1,10 @@
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\P02_DatabaseExtended.deps.json
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\P02_DatabaseExtended.dll
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\P02_DatabaseExtended.pdb
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.csproj.AssemblyReference.cache
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.AssemblyInfo.cs
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.dll
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\P02_DatabaseExtended.pdb

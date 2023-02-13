@@ -1,0 +1,10 @@
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\bin\Debug\netcoreapp3.1\P03_CarManager.deps.json
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\bin\Debug\netcoreapp3.1\P03_CarManager.dll
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\bin\Debug\netcoreapp3.1\P03_CarManager.pdb
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.csproj.AssemblyReference.cache
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.AssemblyInfoInputs.cache
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.AssemblyInfo.cs
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.dll
+C:\Users\Boyan1\Downloads\Unit-Testing-Exercises-Skeleton\CarManager\obj\Debug\netcoreapp3.1\P03_CarManager.pdb
